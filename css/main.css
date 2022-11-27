@@ -4155,3 +4155,20 @@ html.no-csstransitions .home-content__main {
 .updform-parent{
   margin-top: 20px !important;
 }
+
+.home-logo img{
+  width: 160px;
+}
+
+.home-logo{
+  text-align: center;
+}
+
+.home-logo h1{
+  vertical-align: middle;
+  padding-top: 5px;
+}
+
+.home-logo h1::before{
+  display: none;
+}
