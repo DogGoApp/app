@@ -4172,3 +4172,7 @@ html.no-csstransitions .home-content__main {
 .home-logo h1::before{
   display: none;
 }
+
+#features{
+  padding-top: 40px !important;
+}
