@@ -1720,6 +1720,8 @@ input::-moz-focus-inner {
   position: absolute;
   left: 0;
   top: 50%;
+
+  overflow: visible;
 }
 
 .header-logo a {
@@ -1730,8 +1732,8 @@ input::-moz-focus-inner {
 }
 
 .header-logo img {
-  width: 130px;
-  height: 36px;
+  height: 50px;
+  
 }
 
 
