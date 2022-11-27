@@ -4144,3 +4144,12 @@ html.no-csstransitions .home-content__main {
 .s-footer{
   padding-top: 20px !important;
 }
+
+.updform{
+  margin: 0 auto;
+  display:block;
+}
+
+.updform-parent{
+  margin-top: 20px !important;
+}
