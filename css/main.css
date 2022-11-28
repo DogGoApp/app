@@ -4176,3 +4176,7 @@ html.no-csstransitions .home-content__main {
 #features{
   padding-top: 40px !important;
 }
+
+#video-bg{
+  background-image: url(../images/Miniatura.png) !important;
+}
